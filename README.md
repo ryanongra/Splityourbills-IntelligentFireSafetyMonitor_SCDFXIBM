@@ -1,3 +1,21 @@
+# Problem tackling
+Using a machine learning training model to detect obstructions in HDB corridors and improve fire hazard safety. 
+
+# Pitch Video: https://youtu.be/WbOO62g5It0
+
+# Architecture of proposed Solution
+
+# Detailed solution: https://docs.google.com/document/d/12vJRxj5Q6LfjnmeOVTY6oSJacxfRTGcBP2F9Ke50oko/edit?usp=sharing
+
+# Getting Started
+
+#
+
+
+
+
+
+
 # Object Detection React App
 
 You can find an in depth walkthrough for training a TensorFlow.js model [here](https://github.com/cloud-annotations/training/).
