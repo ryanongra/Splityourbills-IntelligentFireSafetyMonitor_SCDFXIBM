@@ -7,7 +7,7 @@ Using a machine learning training model to detect obstructions in HDB corridors 
 https://youtu.be/WbOO62g5It0
 
 ## Architecture of proposed Solution
-![What is this](img.png)
+![Solution Architecture](https://github.com/ryanongra/Splityourbills-IntelligentFireSafetyMonitor_SCDFXIBM/blob/master/img.PNG)
 
 ## Detailed solution: 
 https://docs.google.com/document/d/12vJRxj5Q6LfjnmeOVTY6oSJacxfRTGcBP2F9Ke50oko/edit?usp=sharing
