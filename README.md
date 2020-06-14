@@ -1,16 +1,18 @@
-# Problem tackling
+# Intelligent Fire Safety Monitor
+
+## Problem tackling
 Using a machine learning training model to detect obstructions in HDB corridors and improve fire hazard safety. 
 
-# Pitch Video: 
+## Pitch Video: 
 https://youtu.be/WbOO62g5It0
 
-# Architecture of proposed Solution
-![alt text](file:///C:/Users/Ryan/Desktop/Capture.png)
+## Architecture of proposed Solution
+![alt text](https://github.com/ryanongra/Splityourbills-IntelligentFireSafetyMonitor_SCDFXIBM/blob/master/Solution architecture.PNG?raw=true)
 
-# Detailed solution: 
+## Detailed solution: 
 https://docs.google.com/document/d/12vJRxj5Q6LfjnmeOVTY6oSJacxfRTGcBP2F9Ke50oko/edit?usp=sharing
 
-# Getting Started
+## Getting Started
 `git clone` the repo and `cd` into it by running the following command:
 
 ```bash
