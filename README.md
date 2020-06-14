@@ -28,3 +28,6 @@ cd Splityourbills-IntelligentFireSafetyMonitor_SCDFXIBM
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Resources Used
+IBM Cloud Annotations 
+
